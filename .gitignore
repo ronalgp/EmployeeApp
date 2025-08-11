@@ -1,0 +1,34 @@
+# .NET Core
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.vs/
+
+# Angular / Node.js
+node_modules/
+dist/
+.tmp/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# VS Code
+.vscode/
+
+# Build outputs
+out/
+publish/
+
+# User-specific files
+*.user
+*.suo
+
+# Environment files
+.env
+.env.*
